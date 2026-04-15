@@ -1,8 +1,8 @@
 var addressPoints = [
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.5074456,
-    -0.1277653
+    "The Role of Moisture Fluxes During the Propagation of the Convectively Coupled Waves (CCWs)<br />MPI-M Joint Seminar; Hamburg, Germany",
+    53.5501721,
+    10.0013165
   ],
   [
     "Study on the intra-annual spatial and temporal distribution of heavy rainfall in China and its evolutionary characteristics<br />18th China Water Forum; Nanjing, Jiangsu, P. R. China",
