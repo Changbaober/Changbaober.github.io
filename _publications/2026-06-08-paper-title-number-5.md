@@ -3,7 +3,7 @@ title: "Paper Title Number 5, with math $$E=mc^2$$"
 collection: hidden
 published: false
 category: conferences
-permalink: /publication/2026-06-08-paper-title-number-4
+permalink: /publication/2026-06-08-paper-title-number-5
 excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
 date: 2026-06-08
 venue: 'GitHub Journal of Bugs'
