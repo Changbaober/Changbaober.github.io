@@ -10,7 +10,7 @@ var addressPoints = [
     147.3281233
   ],
   [
-    "Study on the intra-annual spatial and temporal distribution of heavy rainfall in China and its evolutionary characteristics<br />18th China Water Forum; Nanjing, Jiangsu, P. R. China",
+    "Study on the intra-annual spatial and temporal distribution of heavy rainfall in China and its evolutionary characteristics<br />18th China Water Forum; Nanjing, China",
     32.0438284,
     118.7788631
   ],
