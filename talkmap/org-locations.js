@@ -5,14 +5,14 @@ var addressPoints = [
     -0.1277653
   ],
   [
-    "Study on the intra-annual spatial and temporal distribution of heavy rainfall in China and its evolutionary characteristics<br />18th China Water Forum; Nanjing, Jiangsu, P. R. China",
-    32.0438284,
-    118.7788631
-  ],
-  [
     "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
     37.8708393,
     -122.272863
+  ],
+  [
+    "Study on the intra-annual spatial and temporal distribution of heavy rainfall in China and its evolutionary characteristics<br />18th China Water Forum; Nanjing, Jiangsu, P. R. China",
+    32.0438284,
+    118.7788631
   ],
   [
     "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
