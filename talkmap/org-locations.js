@@ -5,14 +5,14 @@ var addressPoints = [
     10.0013165
   ],
   [
+    "The Evaluation of Convectively Coupled Waves in Limited-Length Datasets<br />AMOS 2026; Hobart, Australia",
+    -42.8825088,
+    147.3281233
+  ],
+  [
     "Study on the intra-annual spatial and temporal distribution of heavy rainfall in China and its evolutionary characteristics<br />18th China Water Forum; Nanjing, Jiangsu, P. R. China",
     32.0438284,
     118.7788631
-  ],
-  [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
   ],
   [
     "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
